@@ -2,8 +2,6 @@
 <h3 align="center">A passionate applied mathematics student interested in mathematical modeling, optimization, and data analysis.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguynhau" alt="nguynhau" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://www.researchgate.net/profile/Tan-Hau-Nguyen?ev=hdr_xprf](https://www.researchgate.net/profile/Tan-Hau-Nguyen?ev=hdr_xprf)
 
 - 💬 Ask me about **data analysis and statistics**
@@ -14,7 +12,6 @@
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/nguyen.hau.771258?locale=vi_vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyen.hau.771258?locale=vi_vn" height="30" width="40" /></a>
 <a href="https://instagram.com/nguynhau__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nguynhau__" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/94300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="94300" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
