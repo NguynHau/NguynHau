@@ -36,6 +36,9 @@
 <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
 </a>
 
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
+</a>
 
 <a href="https://rmarkdown.rstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/rmarkdown.svg" alt="rmarkdown" width="40" height="40"/>
