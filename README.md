@@ -36,6 +36,14 @@
 <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
 </a>
 
+<a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
+<img src="https://images.ctfassets.net/nrgyaltdicpt/5oU1sU8Yw3bJ5V9zp1KimG/0f7e5c1e5c8e4fed0d297927651c01fb/overleaf-green.svg" alt="overleaf" width="40" height="40"/>
+</a>
+
+<a href="https://typst.app/" target="_blank" rel="noreferrer">
+<img src="https://avatars.githubusercontent.com/u/85644691?s=200&v=4" alt="typst" width="40" height="40"/>
+</a>
+
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
 </a>
