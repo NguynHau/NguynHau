@@ -10,7 +10,7 @@ An applied mathematics student interested in mathematical modeling, optimization
 
 - 📫 Email: **[tanhau7420@gmail.com](mailto:tanhau7420@gmail.com)**
 
-- - 🔬 ORCID: [0009-0006-1357-8882](https://orcid.org/0009-0006-1357-8882)
+- 🔬 ORCID: [0009-0006-1357-8882](https://orcid.org/0009-0006-1357-8882)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
