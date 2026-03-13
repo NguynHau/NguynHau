@@ -3,10 +3,9 @@
 An applied mathematics student interested in mathematical modeling, optimization, machine learning, and artificial intelligence, focusing on data analysis and quantitative models for real-world problems.
 </h3>
 
-
-- 👨‍💻 All of my projects are available at [ResearchGate](https://www.researchgate.net/profile/Tan-Hau-Nguyen)
-
 - 💬 Ask me about **data analysis, statistics, optimization, and machine learning**
+  
+- 👨‍💻 All of my projects are available at [ResearchGate](https://www.researchgate.net/profile/Tan-Hau-Nguyen)
 
 - 📫 Email: **[tanhau7420@gmail.com](mailto:tanhau7420@gmail.com)**
 
