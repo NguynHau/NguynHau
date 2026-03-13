@@ -6,15 +6,17 @@ An applied mathematics student interested in mathematical modeling, optimization
 
 - 👨‍💻 All of my projects are available at [ResearchGate](https://www.researchgate.net/profile/Tan-Hau-Nguyen)
 
-- 💬 Ask me about **data analysis and statistics**
+- 💬 Ask me about **data analysis, statistics, optimization, and machine learning**
 
-- 📫 How to reach me **tanhau7420@gmail.com**
+- 📫 Email: **[tanhau7420@gmail.com](mailto:tanhau7420@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/nguyen.hau.771258?locale=vi_vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyen.hau.771258?locale=vi_vn" height="30" width="40" /></a>
 <a href="https://instagram.com/nguynhau__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nguynhau__" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
 
@@ -37,8 +39,6 @@ An applied mathematics student interested in mathematical modeling, optimization
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
 </a>
-
-
 
 <a href="https://typst.app/" target="_blank" rel="noreferrer">
 <img src="https://avatars.githubusercontent.com/u/85644691?s=200&v=4" alt="typst" width="40" height="40"/>
