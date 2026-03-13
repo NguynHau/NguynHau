@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tan-Hau Nguyen</h1>
-<h3 align="center">A passionate applied mathematics student interested in mathematical modeling, optimization, and data analysis.</h3>
+<h3 align="center">
+An applied mathematics student interested in mathematical modeling, optimization, machine learning, and artificial intelligence, focusing on data analysis and quantitative models for real-world problems.
+</h3>
 
 
 - 👨‍💻 All of my projects are available at [ResearchGate](https://www.researchgate.net/profile/Tan-Hau-Nguyen)
@@ -62,8 +64,6 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </a>
 
-<a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/IBM_SPSS_Statistics_logo.svg" alt="spss" width="40" height="40"/>
-</a>
+
 
 </p>
