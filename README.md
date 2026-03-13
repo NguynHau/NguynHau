@@ -36,13 +36,6 @@
 <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
 </a>
 
-<a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/overleaf/overleaf-icon.svg" alt="overleaf" width="40" height="40"/>
-</a>
-
-<a href="https://typst.app/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/typst/typst/main/assets/icon.svg" alt="typst" width="40" height="40"/>
-</a>
 
 <a href="https://rmarkdown.rstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/rmarkdown.svg" alt="rmarkdown" width="40" height="40"/>
