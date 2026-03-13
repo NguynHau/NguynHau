@@ -13,7 +13,7 @@ An applied mathematics student interested in mathematical modeling, optimization
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/nguyen.hau.771258?locale=vi_vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyen.hau.771258?locale=vi_vn" height="30" width="40" /></a>
+<a href="[https://fb.com/https://www.facebook.com/nguyen.hau.771258?locale=vi_vn](https://www.facebook.com/nguyen.hau.771258?locale=vi_vn)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyen.hau.771258?locale=vi_vn" height="30" width="40" /></a>
 <a href="https://instagram.com/nguynhau__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nguynhau__" height="30" width="40" /></a>
 </p>
 
