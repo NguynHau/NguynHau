@@ -10,6 +10,8 @@ An applied mathematics student interested in mathematical modeling, optimization
 
 - 📫 Email: **[tanhau7420@gmail.com](mailto:tanhau7420@gmail.com)**
 
+- - 🔬 ORCID: [0009-0006-1357-8882](https://orcid.org/0009-0006-1357-8882)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/nguyen.hau.771258?locale=vi_vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyen.hau.771258?locale=vi_vn" height="30" width="40" /></a>
