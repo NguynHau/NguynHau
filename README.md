@@ -2,7 +2,7 @@
 <h3 align="center">A passionate applied mathematics student interested in mathematical modeling, optimization, and data analysis.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://www.researchgate.net/profile/Tan-Hau-Nguyen?ev=hdr_xprf](https://www.researchgate.net/profile/Tan-Hau-Nguyen?ev=hdr_xprf)
+- 👨‍💻 All of my projects are available at [ResearchGate](https://www.researchgate.net/profile/Tan-Hau-Nguyen)
 
 - 💬 Ask me about **data analysis and statistics**
 
