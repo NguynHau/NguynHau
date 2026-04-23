@@ -12,7 +12,7 @@ An applied mathematics student interested in Mathematical modeling, Optimization
 - 🔬 ORCID: [0009-0006-1357-8882](https://orcid.org/0009-0006-1357-8882)
 
 <h3 align="left">Connect with me:</h3>
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td>
 <a href="https://www.facebook.com/nguyen.hau.771258" target="_blank">
