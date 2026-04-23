@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tan-Hau Nguyen</h1>
 <h3 align="center">
-An applied mathematics student interested in mathematical modeling, optimization, machine learning, and artificial intelligence, focusing on data analysis and quantitative models for real-world problems.
+An applied mathematics student interested in Mathematical modeling, Optimization, Machine Learning, and Artificial Intelligence, focusing on Data Analysis and Quantitative models for real-world problems.
 </h3>
 
 - 💬 Ask me about **data analysis, statistics, optimization, and machine learning**
