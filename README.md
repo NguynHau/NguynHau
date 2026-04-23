@@ -12,14 +12,14 @@ An applied mathematics student interested in Mathematical modeling, Optimization
 - 🔬 ORCID: [0009-0006-1357-8882](https://orcid.org/0009-0006-1357-8882)
 
 <h3 align="left">Connect with me:</h3>
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="border:none; border-collapse:collapse;">
 <tr>
-<td>
+<td style="border:none;">
 <a href="https://www.facebook.com/nguyen.hau.771258" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40">
 </a>
 </td>
-<td>
+<td style="border:none;">
 <a href="https://instagram.com/nguynhau__" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40">
 </a>
