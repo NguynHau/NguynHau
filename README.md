@@ -7,6 +7,8 @@ An applied mathematics student interested in Mathematical modeling, Optimization
   
 - 👨‍💻 All of my projects are available at [ResearchGate](https://www.researchgate.net/profile/Tan-Hau-Nguyen)
 
+- 🌐 Portfolio: **[My Portfolio](https://nguynhau.github.io/my-portfolio/)**
+
 - 📫 Email: **[tanhau7420@gmail.com](mailto:tanhau7420@gmail.com)**
 
 - 🔬 ORCID: [0009-0006-1357-8882](https://orcid.org/0009-0006-1357-8882)
